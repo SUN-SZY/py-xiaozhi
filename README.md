@@ -269,7 +269,7 @@ python main.py --protocol mqtt       # MQTT protocol
 
 ## Project Statistics
 
-[![Star History Chart](https://api.star-history.com/svg?repos=huangjunsen0406/py-xiaozhi&type=Date)](https://www.star-history.com/#huangjunsen0406/py-xiaozhi&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=huangjunsen0406/py-xiaozhi&type=Date)](https://star-history.dera.page/#huangjunsen0406/py-xiaozhi&Date)
 
 ## License
 
